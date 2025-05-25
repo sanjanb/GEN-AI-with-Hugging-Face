@@ -2,7 +2,7 @@
 
 **Interactive notebook demonstrating HuggingFace model integration with LangChain for NLP tasks**  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O70N0zDCEIirsjaWoD3bUZtiXzgn2DNP?usp=sharing)
-
+![img](/assets/img.png)
 ---
 
 ## Key Features
